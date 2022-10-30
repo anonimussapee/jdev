@@ -1,0 +1,19 @@
+{
+  "name": "jdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonimussapee/jdev.git"
+  },
+  "author": "john cordova librededrogas420@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonimussapee/jdev/issues"
+  },
+  "homepage": "https://github.com/anonimussapee/jdev#readme"
+}
